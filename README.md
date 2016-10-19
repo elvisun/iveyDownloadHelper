@@ -1,5 +1,5 @@
 # ivey Download Helper
-help remove crap from file name when downloading from eZone
+A chrome extension that helps remove crap from file name when downloading from eZone
 
 ##Example
 change
