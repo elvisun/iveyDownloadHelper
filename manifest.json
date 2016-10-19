@@ -1,8 +1,7 @@
-{"name": "Download Filename Controller",
- "description": "Download Filename Controller",
+{"name": "Ivey Download Helper",
+ "description": "Remove redundant prefixes from files when you download a file from Ivey's eZone",
  "version": "0.1",
  "background": {"scripts": ["bg.js"], "persistent": false},
- "options_page": "options.html",
  "permissions": ["downloads"],
  "content_security_policy": "script-src 'self' chrome-extension-resource: 'unsafe-eval'; default-src 'self'",
  "manifest_version": 2}
