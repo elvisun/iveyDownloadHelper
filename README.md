@@ -5,7 +5,7 @@ A chrome extension that helps remove crap from file name when downloading from e
 change
 `fa3a732b7920453da814ed532e8f5663_4517_outline_2016` to `4517 outline 2016`
 
-#License
+##License
 Copyright (c) 2017 Elvis Sun
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
